@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "tittle": "Калифорния",
+    "itemsInbox": 6,
+    "weight": 180,
+    "price": 300,
+    "imgSrc": "zapech-california.jpg"
+  },
+  {
+    "id": 2,
+    "tittle": " Филадельфия",
+    "itemsInbox": 6,
+    "weight": 180,
+    "price": 300,
+    "imgSrc": "philadelphia.jpg"
+  },
+  {
+    "id": 3,
+    "tittle": "Калифорния хит ролл",
+    "itemsInbox": 6,
+    "weight": 200,
+    "price": 180,
+    "imgSrc": "california-hit.jpg"
+  },
+  {
+    "id": 4,
+    "tittle": " Филадельфия хит ролл",
+    "itemsInbox": 6,
+    "weight": 190,
+    "price": 250,
+    "imgSrc": "philadelphia.jpg"
+  }
+]
